@@ -1,0 +1,12 @@
+Algoritmo Ejercicio2
+	Escribir "Ingrese su DNI: "
+	Leer DNI
+	Escribir "Ingrese su nombre y apellido: "
+	Leer nombre
+	Escribir "Ingrese su dirección: "
+	Leer direccion
+	Escribir "Ingrese su teléfono: "
+	Leer telefono
+	Escribir "Nombre y Apellido: ",nombre,", DNI: ",DNI,", Dirección: ",direccion,", Teléfono: ",telefono
+FinAlgoritmo
+

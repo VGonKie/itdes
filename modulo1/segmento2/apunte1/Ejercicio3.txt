@@ -1,0 +1,14 @@
+Algoritmo Ejercicio3
+	Escribir "Ingrese un número: "
+	Leer number1
+	Escribir "Ingrese otro número: "
+	Leer number2
+	Escribir "Ingrese otro número: "
+	Leer number3
+	Escribir "Ingrese otro número: "
+	Leer number4
+	Escribir "Ingrese otro número: "
+	Leer number5
+	Escribir "Orden inverso: ",number5,number4,number3,number2,number1
+FinAlgoritmo
+

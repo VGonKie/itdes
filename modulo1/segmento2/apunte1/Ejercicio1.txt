@@ -1,0 +1,10 @@
+Algoritmo Ejercicio1
+	Escribir "Ingrese el nombre de su barrio: "
+	Leer barrio
+	Escribir "Ingrese la dirección postal de la comisaría más cercana: "
+	Leer direccion
+	Escribir "Ingrese las entrecalles de la comisaría: "
+	Leer entrecalles
+	Escribir "La comisaría de ",barrio," se encuentra en la calle ",direccion," entre ",entrecalles
+FinAlgoritmo
+
