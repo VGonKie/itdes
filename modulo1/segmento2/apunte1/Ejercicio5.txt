@@ -1,0 +1,9 @@
+Algoritmo Ejercicio5
+	Escribir 'Ingrese un número: '
+	Leer numero1
+	Escribir 'Ingrese otro número: '
+	Leer numero2
+	resultado <- numero1-numero2
+	Escribir 'El resultado de la resta es: ',resultado
+FinAlgoritmo
+
